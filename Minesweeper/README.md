@@ -50,6 +50,8 @@ total distance travelled should be calculated. [3 marks]
 - 40/40 - ur lying
 
 **Results**
+I bit off more than I could chew lol. Finished Minesweeper implementation in 2h 49m (tests and all).
+Screw this scoring system, it works. 
 - Minesweeper: 
 - Solver:
 - TOTAL:
